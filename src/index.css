@@ -2,4 +2,28 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  
 }
+
+body{
+  background-color: #ede0d4;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h2{
+  color: #7f5539;
+}
+
+input{
+  background-color: #e6ccb2;
+  color: #b08968;
+  border: 0.1rem solid #7f5539;
+  border-radius: 5px;
+}
+
